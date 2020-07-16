@@ -4,6 +4,7 @@ Download Youtube Videos as mp4 or mp3
 1) First you need Python (idk if u need the newest version but u can try)
 
 2) U need FFmpeg
+
 **Install FFmpeg on Mac:**
 
 Either type in terminal: 
