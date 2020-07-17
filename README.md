@@ -37,7 +37,7 @@ pip install ffmpeg
 pip install youtube-dl
 ```
 
-5) Now open it in you python editor and on line 10 put your ffmpeg location (make sure its not in some kind of root location)
+5) Now open it in you python editor and on line 25 put your ffmpeg location (make sure its not in some kind of root location)
 ```
 'ffmpeg_location': "path//to//ffmpeg//bin",
 ```
